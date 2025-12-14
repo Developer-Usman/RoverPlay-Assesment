@@ -1,2 +1,2 @@
 # RoverPlay-Assesment
-This is the assesment for rover play studio
+This is the assesment for roverplay studio
